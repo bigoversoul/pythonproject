@@ -85,7 +85,6 @@ def hangman():
                 print("   / \     ")
                 break
 
-
 name = input("Enter your name")
 print("Welcome", name )
 print("~~~~~~~~~~~~~~~~~~~~~~")
